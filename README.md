@@ -6,7 +6,7 @@ Criando páginas HTML com EJS através do curso de Rocketseat
 
 ## Página HTML
 
-![Página](https://prnt.sc/-IPGBu3vsFWv)
+![Página](https://www.imagemhost.com.br/images/2023/04/26/projetoEJS.png)
 
 
 ## Autores
